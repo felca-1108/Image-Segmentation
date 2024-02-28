@@ -1,2 +1,2 @@
 # Image-Segmentation
-Image Segmentation Task from course Coursera_Deep Learning with PyTorch : Image Segmentation.
+Image Segmentation Task from course named "Coursera_Deep Learning with PyTorch : Image Segmentation".
